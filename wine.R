@@ -11,7 +11,7 @@ date_successful = function()
 {
   picked_wine = choose_wine()
 	
-  if(picked_wine == "pinot")
+  if(picked_wine == "pinot""white")
     print("Yesss!")
   else
     print("FAIL!")
